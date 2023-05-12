@@ -4,16 +4,16 @@
 <!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
 
 
-### Hi there, I'm [Ankush Kumar](https://www.linkedin.com/in/ankush-kumar-06b22b191/)👋🏻 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
+### Hi there, I'm [Ankit Virat](https://www.linkedin.com/in/ankit-virat-47704a233//)👋🏻 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
-I am an intermediate back-end developer, graphic and Adobe designer working for the past few years. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
-
+Hey I'm Ankit Virat as a frontend developer, I am passionate about crafting elegant and functional user interfaces that not only meet but exceed user expectations. With a solid foundation in HTML, CSS, and JavaScript, I am able to create dynamic and responsive web applications that are optimized for speed, accessibility, and usability.
+I am dedicated to staying up-to-date with the latest frontend technologies and design trends and am always looking for new and innovative ways to improve the user experience. I am a self-starter with excellent communication and problem-solving skills and thrive in fast-paced, dynamic environments.
 
 - 💻 {( Currently working as a back-end developer at [YouthIndiaFoundation](https://www.youthindiafoundation.com/)-NewDelhi, it is a type of [NGO](https://en.wikipedia.org/wiki/Non-governmental_organization) and our team is currently working on a project named as YIE-       School. )}
 - 🧑‍ {( I have always had the ability to look at things from a different perspective and try to find something new in them. I hope that with every new day, I get more than one chance to learn everything, which will make me very happy. New technologies have always been an inspiration to learn and at the same time get an opportunity to learn something from them. )}
 - 👨🏽‍💻 {( Currently growing my skillset in [Machine Learning](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/) and [Data Science](https://www.ibm.com/in-en/analytics/data-science?utm_content=SRCWW&p1=Search&p4=43700052658080620&p5=e&gclid=CjwKCAjwjtOTBhAvEiwASG4bCOOPlVssk_4G8dh6UR3f61_GTWuGGigy4KQbieXS3AWBz5gug98I-BoCxI8QAvD_BwE&gclsrc=aw.ds). )}
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akankushjnvku&label=Profile%20views&color=32CD32&style=flat" alt="akankushjnvku" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnkitVirat77&label=Profile%20views&color=32CD32&style=flat" alt="AnkitVirat77" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 ### `Coding Profiles:`
