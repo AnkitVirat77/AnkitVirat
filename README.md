@@ -6,7 +6,7 @@
 
 ### Hi there, I'm [Ankit Virat](https://www.linkedin.com/in/ankit-virat-47704a233//)👋🏻 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
-Hey I'm Ankit Virat as a frontend developer, I am passionate about crafting elegant and functional user interfaces that not only meet but exceed user expectations. With a solid foundation in HTML, CSS, and JavaScript, I am able to create dynamic and responsive web applications that are optimized for speed, accessibility, and usability.
+ As a frontend developer, I am passionate about crafting elegant and functional user interfaces that not only meet but exceed user expectations. With a solid foundation in HTML, CSS, and JavaScript, I am able to create dynamic and responsive web applications that are optimized for speed, accessibility, and usability.
 I am dedicated to staying up-to-date with the latest frontend technologies and design trends and am always looking for new and innovative ways to improve the user experience. I am a self-starter with excellent communication and problem-solving skills and thrive in fast-paced, dynamic environments.
 
 - 💻 {( Currently working as a back-end developer at [YouthIndiaFoundation](https://www.youthindiafoundation.com/)-NewDelhi, it is a type of [NGO](https://en.wikipedia.org/wiki/Non-governmental_organization) and our team is currently working on a project named as YIE-       School. )}
