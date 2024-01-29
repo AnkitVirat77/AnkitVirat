@@ -1,4 +1,4 @@
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Fdesktop-wallpaper-hdugj&psig=AOvVaw20hoMZ8nEMBKT-mBB0ufwf&ust=1692300466997000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCIltz04YADFQAAAAAdAAAAABAE)
+![]()
 ![nweeqf97l2md3tlqkjyt](https://github.com/akankushjnvku/akankushjnvku/assets/110965843/50d34385-0627-4d04-8bda-9a27ee32c8fb)
 
 
